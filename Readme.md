@@ -9,7 +9,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sipalingnode&theme=radical" width="500" height="200" />
 </p>
 
-<h2 align="center"><b>My Community Team</b></h2>
+<h2 align="center"><b>Community Team</b></h2>
 <p align="center">
   <a href="https://www.airdropasc.com" target="_blank"><img src="https://github.com/sipalingnode/sipalingnode/blob/main/asc.png" width="50"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/airdropasc" target="_blank"><img src="https://github.com/user-attachments/assets/56e7f6ee-18b7-4b36-becc-ec6e4de7bff9" width="50"/></a>&nbsp;&nbsp;&nbsp;
