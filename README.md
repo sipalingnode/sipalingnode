@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/sipalingnode">
-    <img src="https://github.com/sipalingnode/sipalingnode/blob/main/photo_2022-06-12_12-10-40.jpg" width="600" />
+    <img src="https://github.com/sipalingnode/sipalingnode/blob/main/photo_2022-06-12_12-10-40.jpg" width="550" />
   </a>
 </p>
 
